@@ -1,7 +1,7 @@
 
-package projetocontabanco;
+package aula05;
 
-public class ProjetoContaBanco {
+public class Aula05 {
     
     public static void main(String[] args) {
         ContaBanco conta1 = new ContaBanco(); //instanciando conta1
